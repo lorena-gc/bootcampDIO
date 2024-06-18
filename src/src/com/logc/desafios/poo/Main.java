@@ -1,3 +1,5 @@
+package com.logc.desafios.poo;
+
 import com.logc.desafios.poo.equipamento.Iphone;
 
 public class Main {
